@@ -93,11 +93,11 @@ Les variables ne s'écrivent pas de la même manière qu'elles s'utilisent. Voic
 MA_VARIABLE = hello
 
 # Déclaration d'une variable contenant une suite de mots
-MA_LONGUE_VARIABLE =  hello \
-					  world \
-					  how \
-					  are \
-					  you
+MA_LONGUE_VARIABLE =  	hello \
+                        world \
+			how \
+			are \
+			you
 
 # Utilisation des variables
 print:

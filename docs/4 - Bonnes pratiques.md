@@ -1,4 +1,6 @@
 # 🥳 Bonnes pratiques
+1. [Variables personnalisées](#variables-personnalisées)
+2. [Les variables implicites / spéciales](#les-variables-implicites--spéciales)
 
 ## Variables personnalisées
 

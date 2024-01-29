@@ -6,7 +6,6 @@
 2. [Construire un modèle de Makefile réutilisable](#construire-un-modèle-de-makefile-réutilisable)
 
 ## Introduction
-___
 Dans ce workshop vous allez développer un modèle Makefile respectant les attentes d'Epitech et que vous pourrez très facilement réutiliser sur vos projets de 1ere et 2eme année.
 
 Avant de commencer ce workshop, n'hésitez pas  à prendre connaissance des documents suivant :
@@ -16,7 +15,6 @@ Avant de commencer ce workshop, n'hésitez pas  à prendre connaissance des docu
 Une fois que vous êtes parés et que vous avez bien compris comment fonctionne un Makefile, vous allez construire un modèle de Makefile que vous pourrez réutiliser sur vos projets en rien de temps.
 
 ## Construire un modèle de Makefile réutilisable
-____
 Pour développer rapidement, il est nécessaire qu'un Makefile puisse être opérationnel dès le début d'un projet. Pour cela, développez un Makefile réutilisable dans lequel vous n'aurez que des valeurs à donner à vos variables. 
 
 N'hésitez pas à utiliser ce guide des [bonnes pratiques](./4%20-%20Bonnes%20pratiques.md). Pour vous aider, vous pouvez suivre les étapes détaillées dans le document [Un Makefile en détails](./3%20-%20Un%20Makefile%20en%20détails.md).
